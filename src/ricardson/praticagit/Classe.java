@@ -11,6 +11,6 @@ package ricardson.praticagit;
  */
 public class Classe {
         public static void main(String[] args) {
-       System.out.println("TESTE CLASSE - RICARDSON COUTO");
+       System.out.println("TESTE2 CLASSE - RICARDSON COUTO");
     }
 }
